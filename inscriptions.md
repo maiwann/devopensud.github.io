@@ -11,3 +11,4 @@ Ajoute ton nom et un moyen de te contacter ici :
 - Vincent Agnano - vincent.agnano at scopyleft fr
 - Fabien Tregan - [@ftregan](https://twitter.com/ftregan)
 - Hugo Mochet - [@HugoMochet](https://twitter.com/HugoMochet)
+- Maïtané - [@maiwann_] (https://twitter.com/maiwann_)
